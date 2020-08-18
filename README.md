@@ -1,5 +1,5 @@
 ## Hi there 👋 I’m Ben.
-### Dad, nerd, pc gamer, philomath.
+### Father, nerd, pc gamer, philomath, dad-joke aficionado.
 #### I also write software ...
 
 - 🔭 **I’m currently working on** Software to make independant retailers' lives easier.
@@ -11,3 +11,4 @@
 - ⚡ **Fun fact** I eat *way* too many biscuits.
 
 - 💻 **Working for** [Citrus-Lime](https://www.citruslime.com/)
+- 🔖 **Personal website** [itsbjk.com](http://itsbjk.com/)
